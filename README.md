@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pedro Nunes 👋</h1>
-<h3 align="center">Future GTA VII Main Developer</h1>
+<h3 align="center">Future GTA VII Developer</h1>
 
 
 - 🎓 Freshly finished "Academia de Código" bootcamp.
