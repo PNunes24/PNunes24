@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Pedro Nunes 👋</h1>
-<h3 align="center">Future GTA VII Developer</h1>
+<h3 align="center">______________</h1>
 
 
 - 🎓 Freshly finished "Academia de Código" bootcamp.
-- 🌱 Currently learning JavaScript and Outsystems.
+- 🌱 Currently learning Java, JavaScript and CSS/HTML.
 - 😄 Dedicated, adaptable and professional person who's always eager to learn. 
 - 📍 Aveiro, Oliveira de Azeméis.
 - ⚡ Fun fact: I love to watch and talk about football but I hate to play it.
